@@ -1,0 +1,7 @@
+*.o
+*.elf
+*.prx
+*.csv
+src/exports.c
+fw/
+!.gitkeep
